@@ -1,0 +1,2 @@
+# Gaming-Portal--JAVA
+We created a platform using Java that provided the user with the features like their personal account (with a personal avatar). This portal created an environment where different users could share their high scores online. The portal showcased three different games. The games were created using Java. Snakes, Battleships and Logo quiz were the three games provided to the users. 
